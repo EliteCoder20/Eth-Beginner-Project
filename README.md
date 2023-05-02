@@ -1,7 +1,8 @@
 # Eth-Beginner-project
 
+Hi! Welcome to this Repo
 
-This project is made  as an Assessments for the final project of Eth-begineer Course for Metacrafters. The purpose of this Repository is to showcase  my knowledge and understanding of the smart contracts and especially, about creating my own Tokens,with mentioned requirements.
+This Repo is made  for an Assessments for the final project of Eth-begineer Course for Metacrafters. The purpose of this Repository is to showcase  my knowledge and understanding of the smart contracts and especially, about creating my own Tokens,with mentioned requirements.
 
 ## Description
 
